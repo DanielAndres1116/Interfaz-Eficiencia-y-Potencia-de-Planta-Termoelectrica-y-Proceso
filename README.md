@@ -26,8 +26,11 @@ En resumen, este proyecto proporciona una herramienta versátil y educativa para
 
 ## Imágenes:
 
+![image](https://github.com/DanielAndres1116/Interfaz-Eficiencia-y-Potencia-de-Planta-Termoelectrica-y-Proceso/assets/43154438/77e5bb79-e0be-4711-abd9-bf7b6553098f)
 Sistema de planta termoeléctrica con sus elementos (bombas, condensador, turbinas, calderas, etc.).
 
+![image](https://github.com/DanielAndres1116/Interfaz-Eficiencia-y-Potencia-de-Planta-Termoelectrica-y-Proceso/assets/43154438/6ce716cc-f3da-4880-8ccc-c98ca3ef94a7)
 Diagrama T-s mostrado en la interfaz tras los cálculos con valores de Potencia y Eficiencia no tan buenos.
 
+![image](https://github.com/DanielAndres1116/Interfaz-Eficiencia-y-Potencia-de-Planta-Termoelectrica-y-Proceso/assets/43154438/9a1a6ed1-f887-4f0b-a373-05cb4a621c96)
 Diagrama T-s mostrado en la interfaz tras los cálculos con valores de Potencia y Eficiencia mejores.
